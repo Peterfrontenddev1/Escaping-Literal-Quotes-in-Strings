@@ -16,3 +16,4 @@ Use backslashes to assign a string to the myStr variable so that if you were to 
 
 I am a "double quoted" string inside "double quotes".
 
+You should use two double quotes (") and four escaped double quotes (\").
