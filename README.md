@@ -18,9 +18,9 @@ I am a "double quoted" string inside "double quotes".
 
       QUESTION
 
-You should use two double quotes (") and four escaped double quotes (\").
+      You should use two double quotes (") and four escaped double quotes (\").
 
-Variable myStr should contain the string: I am a "double quoted" string inside "double quotes".
+      Variable myStr should contain the string: I am a "double quoted" string inside "double quotes".
 
-const myStr = ""; // Change this line
+      const myStr = ""; // Change this line
 
