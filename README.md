@@ -8,3 +8,4 @@ In JavaScript, you can escape a quote from considering it as an end of string qu
 
 const sampleStr = "Alan said, \"Peter is learning JavaScript\".";
 
+This signals to JavaScript that the following quote is not the end of the string, but should instead appear inside the string. So if you were to print this to the console, you would get:
